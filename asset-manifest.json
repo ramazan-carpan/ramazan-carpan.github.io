@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.d860f584.css",
-    "main.js": "/static/js/main.4f4ddbcb.js",
+    "main.css": "/static/css/main.4dba7338.css",
+    "main.js": "/static/js/main.848c3cad.js",
     "static/js/453.445d8ddd.chunk.js": "/static/js/453.445d8ddd.chunk.js",
-    "static/media/RestaurantResevationMVC_compressed.mov": "/static/media/RestaurantResevationMVC_compressed.302230721c33824bfb8d.mov",
-    "static/media/OrderManagementApp_compressed.mov": "/static/media/OrderManagementApp_compressed.3dc05df294b2c417faec.mov",
-    "static/media/ReactWebSite_compressed.mov": "/static/media/ReactWebSite_compressed.4d6dc4f018c2d0700d1d.mov",
+    "static/media/RestaurantResevationMVC_compressed.mp4": "/static/media/RestaurantResevationMVC_compressed.04e7fd9a94f78b96fa3f.mp4",
+    "static/media/OrderManagementApp_compressed.mp4": "/static/media/OrderManagementApp_compressed.73e1cf10e1afd449b99b.mp4",
+    "static/media/ReactWebSite_compressed.mp4": "/static/media/ReactWebSite_compressed.75db21ec9b0a8a406a43.mp4",
     "static/media/MenuPage.png": "/static/media/MenuPage.b843297c067396171162.png",
     "static/media/HomePage.png": "/static/media/HomePage.ffcc438902db6f8819c1.png",
     "static/media/DemoVideo.png": "/static/media/DemoVideo.028fde73338685fa74b4.png",
@@ -43,12 +43,12 @@
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/index.html",
-    "main.d860f584.css.map": "/static/css/main.d860f584.css.map",
-    "main.4f4ddbcb.js.map": "/static/js/main.4f4ddbcb.js.map",
+    "main.4dba7338.css.map": "/static/css/main.4dba7338.css.map",
+    "main.848c3cad.js.map": "/static/js/main.848c3cad.js.map",
     "453.445d8ddd.chunk.js.map": "/static/js/453.445d8ddd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d860f584.css",
-    "static/js/main.4f4ddbcb.js"
+    "static/css/main.4dba7338.css",
+    "static/js/main.848c3cad.js"
   ]
 }
