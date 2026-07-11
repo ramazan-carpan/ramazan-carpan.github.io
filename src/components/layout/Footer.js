@@ -8,8 +8,8 @@ const Footer = () => {
           ramazan.carpan@outlook.com
         </a>
         <span> | </span>
-        <a href="tel:+610431561355" className="footer__link">
-          +61 0431561355
+        <a href="tel:+61431561355" className="footer__link">
+          +61 431 561 355
         </a>
       </div>
       <ul className="social-list">

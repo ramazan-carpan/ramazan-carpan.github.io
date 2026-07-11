@@ -1,5 +1,5 @@
 import Project1Image from '../../assets/img/project/1ReservationSystem/ReservationSystem.png';
-import ReservationSystemVideo from '../../assets/video/RestaurantResevationMVC_compressed.mov';
+import ReservationSystemVideo from '../../assets/video/RestaurantResevationMVC_compressed.mp4';
 
 const project1 = {
 

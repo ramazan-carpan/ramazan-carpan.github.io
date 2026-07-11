@@ -1,5 +1,5 @@
 import ProjectImage from '../../assets/img/project/3ReactWebsite/WhoIam.png';
-import DemoVideo from '../../assets/video//ReactWebSite_compressed.mov';
+import DemoVideo from '../../assets/video/ReactWebSite_compressed.mp4';
 
 const project3 = {
 

@@ -18,14 +18,19 @@ const Work = () => {
             className="portfolio__item"
           >
             <div className="portfolio__card">
-              <img
-                src={project.ProjectImage}
-                alt={project.title}
-                className="portfolio__img"
-              />
+              <div className="portfolio__img-wrap">
+                <img
+                  src={project.ProjectImage}
+                  alt={project.title}
+                  className="portfolio__img"
+                />
+              </div>
               <div className="portfolio__info">
                 <h3>{project.title}</h3>
-                <p><strong>{project.title}</strong></p>
+                <p>{project.description}</p>
+                <span className="portfolio__cta">
+                  View Case Study <i className="fa-solid fa-arrow-right" aria-hidden="true"></i>
+                </span>
               </div>
             </div>
           </Link>

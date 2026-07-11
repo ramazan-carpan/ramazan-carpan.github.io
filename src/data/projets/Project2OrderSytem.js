@@ -1,5 +1,5 @@
 import Project2Image from '../../assets/img/project/2OrderSystemApp/Order.png';
-import ReservationSystemVideo from '../../assets/video/OrderManagementApp_compressed.mov';
+import OrderManagementVideo from '../../assets/video/OrderManagementApp_compressed.mp4';
 
 /* */
 const project2 = {
@@ -64,7 +64,7 @@ const project2 = {
   
   },
    /* Video section*/
-  video: ReservationSystemVideo,
+  video: OrderManagementVideo,
    /* Github Code Source*/
   githubLink:'https://github.com/Bean-Scene-Zachary-and-Alex/bean-scene-app-zach-alex.git',
 };

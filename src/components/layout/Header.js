@@ -16,6 +16,9 @@ const Header = () => {
 
   return (
     <header>
+      <HashLink smooth to="/" className="nav-brand" onClick={closeNavigation}>
+        Ramazan<span className="nav-brand__dot">.</span>Carpan
+      </HashLink>
       <button
         className="nav-toggle"
         aria-label="toggle navigation"
@@ -44,7 +47,7 @@ const Header = () => {
             <HashLink smooth to="/#work" className="nav__link" onClick={closeNavigation}>
               My Work
             </HashLink>
-          </li> 
+          </li>
         </ul>
       </nav>
     </header>
